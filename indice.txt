@@ -1,1 +1,1 @@
-Hola, estoy haciendo los ejercicios correspondientes a la parte de GIT del TP0
+Hola, estoy cambiando el contenido del archivo para seguir probando git
